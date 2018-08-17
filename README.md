@@ -10,5 +10,10 @@ This keyboard is working in CAPS with 3 buttons (digital)
 It would be wonderfull if someone has time to activate the shift fonction and add lowercase chars.
 I will modify the library soon to adapt to a digital 5w joystock and a 5 buttons analog joystick
 
+For info, the 5th line of char is: s = shift, _ = space , d = delete , r = return
+
+
+
+
 Have fun :)
 
